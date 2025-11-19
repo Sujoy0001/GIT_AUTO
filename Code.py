@@ -7,3 +7,6 @@ for i in range(12,800,2):
     print(m)
 for i in range(1,10,2):
     print(i)
+m = 147
+bug = 2 * m + 7
+print(bug)
